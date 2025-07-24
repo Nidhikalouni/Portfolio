@@ -6,8 +6,7 @@ Welcome to my **Personal Portfolio Website**, built to showcase my skills, proje
 
 ## 🌐 Live Demo
 
-➡️ [View Live Site](https://your-deployed-site-link.com)  
-*(Replace with your actual deployment link e.g., GitHub Pages, Vercel, Netlify)*
+➡️ portfolio-three-eosin-40.vercel.app
 
 ---
 
